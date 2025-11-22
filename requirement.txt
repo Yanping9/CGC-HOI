@@ -1,0 +1,5 @@
+matplotlib==3.6.3
+tqdm==4.64.1
+timm==0.6.12
+wandb==0.13.9
+seaborn==0.13.0
